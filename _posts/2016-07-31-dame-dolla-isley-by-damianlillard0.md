@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-31T06:32:57.045Z'
+datePublished: '2016-07-31T06:34:20.306Z'
 sourcePath: _posts/2016-07-31-dame-dolla-isley-by-damianlillard0.md
 hasPage: true
 keywords: []
@@ -9,7 +9,7 @@ author:
       http://forwardcenter.net/wp-content/uploads/2015/03/D-Lillard-1-Florist-City-Hero-S85164-H.jpg
     name: forwardcenter.net
 via: {}
-dateModified: '2016-07-31T06:32:56.611Z'
+dateModified: '2016-07-31T06:34:19.782Z'
 title: ''
 app_links:
   - type: ios

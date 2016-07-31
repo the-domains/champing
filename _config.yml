@@ -1,0 +1,14 @@
+layout_spectrum: 0.617217936553061
+typography_spectrum: 0.39780926890671253
+color:
+  brandStrength: 0.44305461179465055
+  lightness: 0.3766488078981638
+  saturation: 0.08441809192299843
+  rhythmicContrast: 0.045159291476011276
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+name: '#champing'

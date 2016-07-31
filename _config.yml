@@ -1,16 +1,28 @@
-typography_spectrum: 0.39780926890671253
+title: Every. Damn. Day.
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.44305461179465055
-  lightness: 0.3766488078981638
   saturation: 0.08441809192299843
-  rhythmicContrast: 0.045159291476011276
+  brandStrength: 0
+  lightness: 0.3766488078981638
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-layout_spectrum: 0.617217936553061
-name: '#champing'
-title: Every. Damn. Day.
+  rhythmicContrast: 0.04515929147601128
+typography_spectrum: 0.3978092689067125
 description: Refined Excellence
+layout_spectrum: 1
+name: '#champing'

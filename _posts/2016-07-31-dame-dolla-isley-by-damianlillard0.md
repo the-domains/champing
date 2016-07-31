@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-07-31T06:32:36.202Z'
+datePublished: '2016-07-31T06:32:57.045Z'
 sourcePath: _posts/2016-07-31-dame-dolla-isley-by-damianlillard0.md
-isBasedOnUrl: 'https://soundcloud.com/damianlillard0/dame-dolla-isley'
+hasPage: true
 keywords: []
 related: []
 author:
@@ -9,7 +9,7 @@ author:
       http://forwardcenter.net/wp-content/uploads/2015/03/D-Lillard-1-Florist-City-Hero-S85164-H.jpg
     name: forwardcenter.net
 via: {}
-dateModified: '2016-07-31T06:32:35.705Z'
+dateModified: '2016-07-31T06:32:56.611Z'
 title: ''
 app_links:
   - type: ios
@@ -51,9 +51,7 @@ app_links:
 publisher: {}
 description: ''
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: dame-dolla-isley-by-damianlillard0/index.html
 _context: 'http://schema.org'
 _type: AudioObject
 

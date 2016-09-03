@@ -5,24 +5,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.08441809192299843
-  brandStrength: 0
-  lightness: 0.3766488078981638
+  saturation: 0.2056928
+  brandStrength: 0.003759398
+  lightness: 0.3766488
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  rhythmicContrast: 0.04515929147601128
+  rhythmicContrast: 0.8780881
 typography_spectrum: 0.3978092689067125
 description: Refined Excellence
-layout_spectrum: 1
+layout_spectrum: 0.2024704
 name: '#champing'
